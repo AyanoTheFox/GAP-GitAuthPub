@@ -1,5 +1,5 @@
 # GAP-Git Authpub
- GAP(Git Authpun) is a opensource program created to automate the GitHub projects publication
+ GAP(Git Authpub) is a opensource program created to automate the GitHub projects publication
  using the git pakage, it's made in python then you will need have the python on your terminal.
  Start devlopment: _august 10th 2023_ last modify: _august 10th 2023_ most recent version: _0.0.2_
 
